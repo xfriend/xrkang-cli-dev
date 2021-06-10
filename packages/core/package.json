@@ -17,5 +17,7 @@
   "scripts": {
     "test": "echo \"lerna core\""
   },
-  "gitHead": "451776b480388e0dcac6b5c0f6ae883150429348"
+  "publishConfig": {
+    "access": "public"
+  }
 }
