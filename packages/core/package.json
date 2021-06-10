@@ -1,6 +1,6 @@
 {
   "name": "@xrkang-cli-dev/core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "> TODO: description",
   "author": "奚日康 <xirikang@ybm100.com>",
   "homepage": "",
@@ -15,7 +15,5 @@
   ],
   "scripts": {
     "test": "echo \"lerna core\""
-  },
-  "dependencies": {
   }
 }
