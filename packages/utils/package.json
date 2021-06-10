@@ -1,0 +1,21 @@
+{
+  "name": "@xrkang-cli-dev/utils",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "奚日康 <xirikang@ybm100.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"lerna utils\""
+  },
+  "dependencies": {
+  }
+}
